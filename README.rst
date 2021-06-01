@@ -1,9 +1,11 @@
 ratelimit |build| |maintainability|
 ===================================
 
-NOTE: THIS PACKAGE IS A CLONE OF https://github.com/tomasbasham/ratelimit PACKAGE. I HAVE JUST CHANGE PACKAGE
+NOTE:
+-------
+THIS PACKAGE IS A CLONE OF https://github.com/tomasbasham/ratelimit PACKAGE. I HAVE JUST CHANGE PACKAGE
 DICTIONARY NAME TO AVOID CONFLICT WITH django-ratelimit. I AM NOT CLAIMING OWNERSHIP OF THIS PACKAGE.
-------------
+
 
 APIs are a very common way to interact with web services. As the need to
 consume data grows, so does the number of API calls necessary to remain up to
